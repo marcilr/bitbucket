@@ -1,0 +1,17 @@
+bitbucket.txt
+Created Thu Apr 27 14:46:27 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Bitbucket
+
+
+The https://source.gci.com repo is based on bitbucket
+
+
+Links
+=====
+Bitbucket
+Code, Manage, Collaborate
+Bitbucket is the Git solution for professional teams
+https://bitbucket.org/
