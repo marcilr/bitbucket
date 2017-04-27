@@ -13,3 +13,5 @@ Code, Manage, Collaborate
 Bitbucket is the Git solution for professional teams
 https://bitbucket.org/
 
+Create new repo on Bitbucket from Git Bash terminal?
+http://stackoverflow.com/questions/13788485/create-new-repo-on-bitbucket-from-git-bash-terminal
