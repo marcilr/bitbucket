@@ -16,6 +16,6 @@ https://bitbucket.org/
 Create new repo on Bitbucket from Git Bash terminal?
 http://stackoverflow.com/questions/13788485/create-new-repo-on-bitbucket-from-git-bash-terminal
 
-Learn Branching with Bitbucket Cloud
+Learn Branching with Bitbucket Cloud                                  <===
 Great page that shows required syntax to push branches to bitbucket
 https://www.atlassian.com/git/tutorials/learn-branching-with-bitbucket-cloud
